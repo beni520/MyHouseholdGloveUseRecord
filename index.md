@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Household Glove Use Record
 
-You can use the [editor on GitHub](https://github.com/beni520/MyHouseholdGloveUseRecord/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We often use all kinds of gloves in our daily life, but are you and your family members familiar with their functions and uses? For example, what kind of gloves should be used when cleaning furniture with serious oil pollution? Which kind of gloves should be used when washing dishes? In order to make it easier for you and your family to get familiar with home gloves more quickly, you can record the usage habits of each time you use home gloves, the model and function of gloves, etc. You can organize these records into a list to facilitate family members to check when using gloves, and avoid unnecessary troubles caused by unfamiliar with household gloves.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-```markdown
-Syntax highlighted code block
+We will answer them for you in the first time.
 
-# Header 1
-## Header 2
-### Header 3
+### Address: BeatriceArlenexSgPdE@yahoo.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyHouseholdGloveUseRecord/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
